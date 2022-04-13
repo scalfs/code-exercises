@@ -15,4 +15,3 @@ const plus = (d) => (l) => l + d;
 const minus = (d) => (l) => l - d;
 const times = (d) => (l) => l * d;
 const dividedBy = (d) => (l) => Math.floor(l / d);
-Solution;
