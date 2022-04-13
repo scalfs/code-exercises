@@ -1,8 +1,6 @@
 ## Calculating With Functions
 
-[CodeWars](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39) ==5 kyu==
-
-### Description
+[CodeWars - 5 kyu](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)
 
 This time we want to write calculations using functions and get the results. Let's have a look at some examples:
 

@@ -1,4 +1,6 @@
-### Description:
+## Find the odd int
+
+[CodeWars - 6 kyu](https://www.codewars.com/kata/54da5a58ea159efa38000836)
 
 Given an array of integers, find the one that appears an odd number of times.<br>
 There will always be only one integer that appears an odd number of times.
